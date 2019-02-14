@@ -111,7 +111,8 @@ max-width: 100%;
   border-bottom: 1px solid #a0a0a0;
   padding: 25px 0;
 }
-.banner img {
+.banner img { width: 250px;}
+.banner-text {
   font-size: 30px;
   font-weight: 700;
   text-transform: uppercase;
